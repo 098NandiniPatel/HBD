@@ -36,7 +36,7 @@ function login() {
   if (username === 'username' && password === 'password') {
     document.getElementById('login').style.display = 'none';
     document.getElementById('birthday-card').style.display = 'block';
-    location.href="index.html"
+    location.href="main.html"
     return false; // Prevent form submission
   } else {
     alert('Invalid username or password');
