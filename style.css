@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+  }
+  
+  #countdown {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  #login, #birthday-card {
+    margin-top: 20px;
+  }
+  
+  #birthday-card img {
+    width: 300px;
+    height: auto;
+    margin-top: 20px;
+  }
